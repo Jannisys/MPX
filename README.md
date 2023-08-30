@@ -12,8 +12,10 @@
 - The magnetic pad is larger than the aluminum plate. Trim it so screw heads are exposed and edges are neat using a razor blade. For video guidance, follow [Nero's guide](https://www.youtube.com/watch?v=X2S7mkyyC4E).
 
 ### Pages 55-57: Installing Buildplate Thermistor
-- The kit comes with a pre-assembled buildplate. Install the secondary buildplate thermistor (NTC100K B3950) into the screw hole to the right of the thermal fuse.
-  (This is your Buildplate Thermistor.)
+- The kit comes with a pre-assembled buildplate. Install the secondary buildplate thermistor (NTC100K B3950) into the screw hole to the right of the thermal fuse. (This is your Buildplate Thermistor.)
+- Here is an image for reference:
+![Buildplate Thermistor NTC100K B3590 installed to the hole right of the thermal fuse.](images/second_thermistor.jpg "Buildplate thermistor installation")
+  *Thanks to westy_pity_da_fool for providing the image, make sure to check out his [YouTube build series of this  kit](https://www.youtube.com/playlist?list=PLqagIrU4ukVAN_cfOpWEATV7L-7VvFM-u)*
 
 ### Page 84: Cable Chains (Skip)
 - Skip cable chain installation for X/Y axes. MagicPhoenix kit utilizes CAN-Bus.
