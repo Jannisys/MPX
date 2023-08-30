@@ -8,7 +8,7 @@
 
 **Note:** This guide provides instructions specific to the MagicPhoenix kit. For general steps, please refer to the Voron 2.4 manual.
 
-### Page 54: Cutting the Magnetic Pad
+### Page 54: Cutting the Magnetic Pad - NOTE: Do not Install magnetic pad until after the build plate has been fitted.
 - The magnetic pad is larger than the aluminum plate. Trim it so screw heads are exposed and edges are neat using a razor blade. For video guidance, follow [Nero's guide](https://www.youtube.com/watch?v=X2S7mkyyC4E).
 
 ### Pages 55-57: Installing Buildplate Thermistor
@@ -17,9 +17,12 @@
 
 ### Page 84: Cable Chains (Skip)
 - Skip cable chain installation for X/Y axes. MagicPhoenix kit utilizes CAN-Bus.
-
+### Page 104: X Axis
+- Change out 2 x M5 x16BHCS  for 2 x M5x10 BHCS (this is because this chain bracket is not used in the MPX kit due to the Can Bus system).
 ### Page 106: X-Endstop Installation
 - Install all four screws on both sides. The X-Endstop is on the toolhead; no need for later installation.
+### Page 110: Optional Hall Effect Endstop
+- This is not used as you can either use the TAP sensor on the X access; or use sensorless homing (still use the Y sensor board, but only for the temp sensing built into it, not the Y sensor itself-if using sensorless homing only).
 ___
 ## ChaoticLab CNC Tap Usage:
 ### Page 129: Installing CNC Tap
