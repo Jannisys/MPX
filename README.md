@@ -50,6 +50,7 @@ ___
 
 ### Page 204: Umbilical Cable Routing
 - Skip until P210. For cable routing, consult the [umbilical guide](https://mpx.wiki/umbilical-guide).
+  (You will have to split open the black CAN wire sleeve in order to make all the necessary connections in the electronics bay.)
 
 ### Page 231: Fan Connections
 - Use the image on the [mpx wiki](https://mpx.wiki/cbt-wiring-guide) to connect fans.
